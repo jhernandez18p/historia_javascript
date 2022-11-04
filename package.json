@@ -1,0 +1,16 @@
+{
+  "name": "historia_javascript",
+  "version": "1.0.0",
+  "description": "Aprendiendo JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "ecmascript",
+    "platzi"
+  ],
+  "author": "Josmer Hernández",
+  "license": "MIT"
+}
